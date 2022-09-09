@@ -23,7 +23,7 @@ for (let i = 0; i < 10; i++) {
   first10Img.push(imageUrl[i]);
 }
 
-//
+//  write files to memes folder
 
 async function urlToFile() {
   try {
